@@ -1,6 +1,7 @@
 #### Languages / Framework
-- Node.JS
-- Socket.IO
+- Frontend: HTML + Javascript (JQuery)
+- Server-client communication: Socket.IO
+- Backend: Node.JS
 
 #### Basic Functions
 - Administration of user created chat rooms
